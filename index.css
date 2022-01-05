@@ -121,10 +121,18 @@ span:hover{
     }
     .second{
         width:400px ;
+        padding-left:10px;
+    }
+    .contact{
+         margin-top: 25px;
+    padding-top: 35px;
+    text-align: center;
+    font-size: 15px;
     }
     .project{
         font-size:15px;
     }
+    
     
 }
 a{
