@@ -116,7 +116,7 @@ span:hover{
     
 }
 }
-@media (max-width:600px) and (min-width:200px) {
+@media (max-width:600px) and (min-width:50px) {
     .first{
         width:300px;
     }
