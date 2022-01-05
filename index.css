@@ -117,10 +117,10 @@ span:hover{
 }
 @media (max-width:600px) and (min-width:350px) {
     .first{
-        width:400px ;
+        width:100%;
     }
     .second{
-        width:400px ;
+        width:100%;
         padding-left:10px;
     }
     .contact{
