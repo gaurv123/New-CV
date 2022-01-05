@@ -132,6 +132,9 @@ span:hover{
     .project{
         font-size:15px;
     }
+    section{
+    width:100%;
+    }
     
     
 }
