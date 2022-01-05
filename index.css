@@ -123,6 +123,10 @@ span:hover{
     h4{
         font-size:20px;
     }
+    .mypic{
+    height:18rem;
+        width:14rem;
+    }
     .second{
         width:300px;
         padding-left:0px;
