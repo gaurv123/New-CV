@@ -15,8 +15,8 @@ p{
     padding-bottom: 20px;
 }
 .card{
-height:22rem;
-    width:17rem;
+height:20rem !important;
+    width:15rem !important;
 }
 span{
     padding-left: 10px;
