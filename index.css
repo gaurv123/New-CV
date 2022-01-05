@@ -121,6 +121,9 @@ span:hover{
 }
 }
 @media (max-width:600px) and (min-width:50px) {
+    span,p{
+    width:100%;
+    }
  
     h4{
         font-size:20px;
