@@ -53,7 +53,7 @@ a{
 .first{
     float:left;
     display: inline-block;
-    width: 600px;
+    width: 500px;
     padding-top: 15px;
     padding-bottom: 20px;
 }
@@ -68,7 +68,7 @@ a{
     padding-top: 15px;
     display: inline-block;
    padding-left: 150px;
-    width: 600px;
+    width: 500px;
     padding-bottom: 20px;
 }
 .links{
@@ -121,8 +121,9 @@ span:hover{
 }
 }
 @media (max-width:600px) and (min-width:50px) {
-    span,p{
-    width:200px;
+    span{
+        display:inline-block;
+    width:150px !important;
     }
  
     h4{
