@@ -121,9 +121,7 @@ span:hover{
 }
 }
 @media (max-width:600px) and (min-width:50px) {
-    .first{
-        width:300px;
-    }
+ 
     h4{
         font-size:20px;
     }
@@ -132,7 +130,7 @@ span:hover{
         width:13rem !important;
     }
     .second{
-        width:300px;
+        
         padding-left:0px;
     }
     .contact{
