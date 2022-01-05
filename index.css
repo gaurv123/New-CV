@@ -34,6 +34,7 @@ span{
 
 body{
     margin: 0 0;
+    padding:0 0;
 }
 .buttons{
     margin-top: 25px;
@@ -117,10 +118,10 @@ span:hover{
 }
 @media (max-width:600px) and (min-width:350px) {
     .first{
-        width:400px;
+        width:100%;
     }
     .second{
-        width:400px;
+        width:100%;
         padding-left:10px;
     }
     .contact{
@@ -132,9 +133,7 @@ span:hover{
     .project{
         font-size:15px;
     }
-    section{
-    width:800px;
-    }
+ 
     
     
 }
